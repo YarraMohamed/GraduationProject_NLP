@@ -1,0 +1,34 @@
+question  What does the starred agama do to keep cool?
+correct :  finds shade
+choices : [' finds shade', 'finds water', 'finds food']
+
+
+question  What is the name of the animal you may not know a lot about?
+correct :  penguin
+choices : ['polar bear', ' penguin']
+
+
+question  What is the reason a penguin can stand on ice all day?
+correct :  penguins cannot fly
+choices : ['penguins have no feathers', ' penguins cannot fly']
+
+
+question  What do the warm blood vessels do to the cold blood vessels?
+correct :  heat up
+choices : ['keep away', ' heat up']
+
+
+question  What do fennec foxes help it stay cool?
+correct :  The path of blood vessels in a penguin
+choices : ['The path of blood vessels in a penguin', ' The path of blood vessels in a penguin', 'The path of blood vessels in a fox']
+
+
+question  What is an adaptation in polar bears?
+correct :  thick, white fur
+choices : ['sandy-colored fur', 'dark fur', ' thick, white fur']
+
+
+question  What is camouflage?
+correct :  adaptation that hides animals from a predator or their prey
+choices : ['animal that hides animals from predators', 'animal that hides animals from their predators', ' adaptation that hides animals from a predator or their prey']
+
